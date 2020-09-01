@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.xnxx"
+version="1.2.2"
+name="XNXX"
+provider-name="moedje">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="script.module.youtube.dl" optional="true"/>
+  <import addon="script.module.urlquick" optional="true"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">XNXX.com Adult Plugin</summary>
+  <description lang="en">Plugin to view video's from the adult XNXX.Com porn site. [B]V1.2.1[/B] Fixed run on Kodi 18 V1.1.4 Starting to fix addon to work with redesign of the website. Searh now returns results and thumbnails and plays. Filters, Sorting, and other settings have changed and need to be reset if you already had this addon as they have removed some sorting options.  V0.4.0 First release basic working first release</description>
+  <disclaimer lang="en">ADULTS ONLY CONTENT FROM www.xnxx.com.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources\screenshot-01.jpg</screenshot>
+    <screenshot>resources\screenshot-02.jpg</screenshot>
+    <screenshot>resources\screenshot-03.jpg</screenshot>    
+  </assets>
+  <news>Updated with latest artwork metadata</news>
+</extension>
+</addon>

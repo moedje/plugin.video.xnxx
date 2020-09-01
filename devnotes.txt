@@ -1,0 +1,38 @@
+XNXX
+
+VideoUrlLow='https://vid4-l3.xnxx-cdn.com/videos/3gp/3/2/d/xvideos.com_32d805a9a56ab9dfb18028999f751eba.mp4?e=1564972714&ri=1024&rs=85&h=ade8bb26b47fbf50521f1f007c0e2f56'
+VideoUrlHigh='https://vid4-l3.xnxx-cdn.com/videos/mp4/3/2/d/xvideos.com_32d805a9a56ab9dfb18028999f751eba.mp4?e=1564972714&ri=1024&rs=85&h=61a6cdcc7be7f57a8217862c87e6d73e'
+VideoHLS='https://hls4-l3.xnxx-cdn.com/d44cabf7daa625e89fd076d9828c02699e16e3b7-1564972714/videos/hls/32/d8/05/32d805a9a56ab9dfb18028999f751eba/hls.m3u8'
+ThumbUrl='https://img-l3.xnxx-cdn.com/videos/thumbslll/32/d8/05/32d805a9a56ab9dfb18028999f751eba/32d805a9a56ab9dfb18028999f751eba.15.jpg'
+ThumbUrl169='https://img-l3.xnxx-cdn.com/videos/thumbs169lll/32/d8/05/32d805a9a56ab9dfb18028999f751eba/32d805a9a56ab9dfb18028999f751eba.15.jpg'
+ThumbSlide='https://img-l3.xnxx-cdn.com/videos/thumbs169/32/d8/05/32d805a9a56ab9dfb18028999f751eba/mozaique.jpg'
+ThumbSlideBig='https://img-l3.xnxx-cdn.com/videos/thumbs169/32/d8/05/32d805a9a56ab9dfb18028999f751eba/mozaiquefull.jpg'
+IdCDN='3'
+IdCdnHLS='3'
+VideoURL='/video39709739/_'
+StaticDomain='static-egc.xnxx-cdn.com'
+
+1550057
+
+https://img-l3.xnxx-cdn.com/videos/thumbs169xnxx/64/0f/fc/640ffca5c246a79f84fc8d00e207171c/mozaiquefull.jpg
+
+https://img-l3.xnxx-cdn.com/videos/thumbs169xnxx/64/0f/fc/640ffca5c246a79f84fc8d00e207171c/640ffca5c246a79f84fc8d00e207171c.14.jpg
+https://img-l3.xnxx-cdn.com/videos/thumbs169xnxx/64/0f/fc/640ffca5c246a79f84fc8d00e207171c/640ffca5c246a79f84fc8d00e207171c.14.jpg
+https://img-l3.xnxx-cdn.com/videos/thumbs169xnxx/64/0f/fc/640ffca5c246a79f84fc8d00e207171c/640ffca5c246a79f84fc8d00e207171c.14.jpg
+
+
+
+$6$rounds=5000$rWMfiHq7E942CEg7$Z7K3O3aphx9oliGK.MMCmikVo/FUgYl.kHBqck1cj2xaEjOxp8KpF1fPgPbF.XUqtqCEMrNXRtyXdf5fUKHh1/
+
+content.json?v=0
+
+
+
+import resolveurl, xbmcvfs
+xxx_plugins_path = 'special://home/addons/script.module.resolveurl.xxx/resources/plugins/'
+if xbmcvfs.exists(xxx_plugins_path): resolveurl.add_plugin_dirs(xbmc.translatePath(xxx_plugins_path))
+url = resolveurl.resolve(url
+
+
+<import addon="script.module.resolveurl" version="2.0.00+"/>
+<import addon="script.module.resolveurl.xxx" version="5.0.00+"/>
