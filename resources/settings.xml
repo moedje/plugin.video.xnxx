@@ -1,0 +1,13 @@
+<settings>
+    <category label="General">
+        <setting id="period" label="Period" values="ever|year|month" default="ever" type="labelenum" visible="true"/>
+        <setting id="sortby" label="Sort Method" values="default|hits" default="hits" type="labelenum" visible="true"/>
+        <!-- OLD Sort methods XNXX removed: |uploaddate|rating|views|length|relevance -->
+        <setting id="filterorientation" label="Sexual Orientation Filter" values="gay|straight|shemale" default="straight" type="labelenum" visible="true"/>
+        <setting default="" id="lastsearch" label="Last Search" type="text" values="" visible="true"/>
+        <setting default="" id="downloadpath" label="Download Path" type="folder" values="" visible="true"/>
+        <setting default="50" id="viewmode" label="Set View $INFO[Container.Viewmode]" type="number" values="50"
+                 visible="true"/>
+        <setting default="false" id="debugon" label="DEBUG MODE ON" type="bool" values="false" visible="true"/>
+    </category>
+</settings>
